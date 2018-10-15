@@ -18,7 +18,7 @@ it, simply add the following lines to your Podfile:
 
 ```ruby
 use_frameworks!
-pod "GMStepper"
+pod "GMStepper", :git => 'https://github.com/fwx/GMStepper'
 ```
 
 ## Setup
